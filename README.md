@@ -1,6 +1,6 @@
 # Project of Web Technology
 ## Project name: **Website selling online courses**
-## Technology - **PHP / JQuery / Bootstrap / PDO / MVC**  
+## Technology - **PHP / JQuery / Bootstrap / PDO / MVC / MYSQL**  
 ## Some Screenshots of the project
 HOME PAGE
 ![image](https://github.com/nartrung/Online-Courses/assets/88574004/1623cd13-fcd5-455b-9ac4-0dc66e1818c2)
