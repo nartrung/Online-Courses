@@ -1,0 +1,8 @@
+body {
+    padding-top: 56px;
+    background-color: rgb(40, 58, 90);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+}
+.btn-outline-light:hover{
+    color: black !important;
+}
